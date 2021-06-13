@@ -28,7 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## General description 
 <pre>
-app- This folder has all the roo files of app and also, routing-module, auth service, capitalize-pipe.
+app- This folder has all the files of app and also, routing-module, auth service, capitalize-pipe.
 
 home- Home page of the website which has signup form component 
 
